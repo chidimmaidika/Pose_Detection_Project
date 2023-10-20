@@ -21,11 +21,13 @@ To dive into this project, you will need to import some essential libraries. I u
 import mediapipe as mp*
 
 ### Identifying Your Webcam
-You can choose between a local or external webcam by setting the cv2.VideoCapture parameter. In this project, 0 corresponds to a local webcam, and 1 to an external webcam.   
+You can choose between a local or external webcam by setting the cv2.VideoCapture parameter.    
+In this project, 0 corresponds to a local webcam, and 1 to an external webcam.   
 > *cap = cv2.VideoCapture(0)*
 
 ### Leveraging MediaPipe Pose Detection
-I harnessed the power of MediaPipe's pose detection module to detect key landmarks in the human body. The mp.solutions.pose package provides a straightforward way to get pose landmarks in real-time.   
+I harnessed the power of MediaPipe's pose detection module to detect key landmarks in the human body.    
+The mp.solutions.pose package provides a straightforward way to get pose landmarks in real-time.   
 > *mpPose = mp.solutions.pose
 pose = mpPose.Pose()*
 
@@ -53,9 +55,8 @@ Here's an example of the project's output:
 
 ## Contributions and Feedback
 This project is open-source and hosted on GitHub, welcoming contributions and feedback from the community.   
-If you have ideas for improvements, bug fixes, or new features, please feel free to open issues or submit pull requests. Collaboration and learning are at the core of this project.
+If you have ideas for improvements, bug fixes, or new features, please feel free to open issues or submit pull requests.    
+Collaboration and learning are at the core of this project.
 
 ## License
 This Pose Detection Project is released under the [MIT License](https://opensource.org/license/mit/), which means you have the freedom to use and adapt the code for your projects.
-
-Let's explore the world of pose detection together and see what incredible applications we can build with this technology.
