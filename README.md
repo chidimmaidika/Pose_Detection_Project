@@ -16,7 +16,8 @@ In this project, I explored the exciting world of computer vision and real-time 
 ## Getting Started..
 
 ### Importing Essential Libraries
-To dive into this project, you will need to import some essential libraries. I used OpenCV (cv2) for capturing and processing video streams and MediaPipe for pose detection.   
+To dive into this project, you will need to import some essential libraries.   
+I used OpenCV (cv2) for capturing and processing video streams and MediaPipe for pose detection.   
 > *import cv2   
 import mediapipe as mp*
 
