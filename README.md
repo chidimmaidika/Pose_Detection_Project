@@ -49,9 +49,12 @@ Once everything is set up, the project captures video frames from your webcam, c
         break*
 
 ## Sample Output
-Here's an example of the project's output:
+Here are examples of the project's output:   
 
-
+![pd](https://github.com/ChidimmaIdika/Pose_Detection_Project/assets/137975543/356fe0b5-d697-42dc-a7eb-aa31e7f0aa32)
+![pd1](https://github.com/ChidimmaIdika/Pose_Detection_Project/assets/137975543/9b9312c2-0643-40e4-a0f1-6464aea8c6ae)
+![pd2](https://github.com/ChidimmaIdika/Pose_Detection_Project/assets/137975543/341e9b79-f672-4d96-9748-9601c90253fb)
+![pd3](https://github.com/ChidimmaIdika/Pose_Detection_Project/assets/137975543/56b3711d-327a-4391-8954-f6753c535154)
 
 
 ## Contributions and Feedback
